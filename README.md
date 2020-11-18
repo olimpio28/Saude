@@ -8,4 +8,3 @@
 - Max Wilian Olimpio da Costa - DEV
 - Rafael Barbosa Aguiar - DEV
 - Wesley Everton de Jesus - DEV
-Projeto De aplicativo para Saúde mental!
