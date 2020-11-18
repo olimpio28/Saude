@@ -1,0 +1,88 @@
+create table usuario(
+user_nome varchar2(25),
+user_nacionalidade varchar2(20),
+user_id varchar2(15),
+user_idade int,
+user_email varchar2(30),
+primary key (user_id)
+);
+
+create table voluntario(
+vol_nome varchar2(25),
+vol_nacionalidade varchar2(20),
+vol_id varchar2(15),
+vol_idade int,
+vol_email varchar2(30),
+primary key (vol_id)
+);
+
+create table empresa(
+emp_email varchar2(25),
+emp_tipo varchar2(20),
+emp_id varchar2(15),
+emp_nome varchar2(25),
+primary key (emp_id)
+);
+
+
+create table filadst(
+dst_data varchar2(20),
+dst_hora varchar2(20),
+user_id varchar2(15),
+vol_id varchar2(15),
+foreign key (user_id) references usuario,
+foreign key (vol_id) references voluntario
+);
+
+create table filapsi(
+psi_data varchar2(20),
+psi_hora varchar2(20),
+user_id varchar2(15),
+vol_id varchar2(15),
+foreign key (user_id) references usuario,
+foreign key (vol_id) references voluntario
+);
+
+create table filacons(
+cons_data varchar2(20),
+cons_hora varchar2(20),
+user_id varchar2(15),
+emp_id varchar2(15),
+foreign key (user_id) references usuario,
+foreign key (emp_id) references voluntario
+);
+
+
+insert into usuario values('Rafael Aguiar','Brasileiro','u-01', 24,'rafael@gmail.com');
+insert into usuario values('Weslley Everton','Americano','u-02', 20,'weslley@gmail.com');
+insert into usuario values('Max Willian','Grego','u-03', 20,'weslley@gmail.com');
+
+insert into voluntario values('Stefany Silva','Brasileira','v-01', 19,'stefany@gmail.com');
+insert into voluntario values('Tainá Luria','Americana','v-02', 18,'taina@gmail.com');
+insert into voluntario values('Valentina Silva','Brasileira','v-03', 22,'valentina@gmail.com');
+
+insert into empresa values('epsicologia@gmail.com','Psicologia','e-01','Efeito Psicologia');
+insert into empresa values('dspsicologia@gmail.com','Psicologia','e-02','Differenza Serviços');
+insert into empresa values('clinicadst@gmail.com','DST','e-03','Clínica de DST');
+
+insert into filadst values('03/03/2020','23:21','u-01','v-03');
+insert into filadst values('03/03/2020','23:21','u-03','v-03');
+insert into filadst values('03/03/2020','23:21','u-02','v-01');
+
+insert into filapsi values('03/03/2020','23:11','u-01','v-03');
+insert into filapsi values('03/04/2020','21:21','u-02','v-02');
+insert into filapsi values('03/06/2020','22:41','u-03','v-01');
+
+insert into filacons values('03/06/2020','22:41','u-02','v-01');
+insert into filacons values('03/06/2020','22:41','u-02','v-03');
+insert into filacons values('03/06/2020','22:41','u-02','v-01');
+
+
+select * from usuario;
+select * from voluntario;
+select * from empresa;
+select * from filadst;
+select * from filapsi;
+select * from filacons;
+
+commit;
