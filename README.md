@@ -9,9 +9,9 @@
 |Nome|Papel|Gituser|
 |--|--|--|
 |Max Wilian Olimpio da Costa|PO|/olimpio28|
-|Rafael Barbosa Aguiar |dev|Rafaguiar|
-|Thainá Luria da Silva Gomes|dev|link do git|
-|Wesley Everton de Jesus|dev||https://www.linkedin.com/in/weslley-santos|
+|Rafael Barbosa Aguiar |dev|/Rafaguiar|
+|Thainá Luria da Silva Gomes|dev|/Tai-lur|
+|Wesley Everton de Jesus|dev||/weslleyeverton|
 
 ### 2. ESPECIFICAÇÃO
 
