@@ -6,12 +6,12 @@
 
     Integrantes da equipe:
 ### 2. EQUIPE  
-|Nome|Papel|Gituser|LikedIn|
+|Nome|Papel|Gituser|
 |--|--|--|
 |Max Wilian Olimpio da Costa|PO|/olimpio28|
-|Rafael Barbosa Aguiar |dev|link|
+|Rafael Barbosa Aguiar |dev|Rafaguiar|
 |Thainá Luria da Silva Gomes|dev|link do git|
-|Wesley Everton de Jesus|dev|  |https://www.linkedin.com/in/weslley-santos|
+|Wesley Everton de Jesus|dev||https://www.linkedin.com/in/weslley-santos|
 
 ### 2. ESPECIFICAÇÃO
 
