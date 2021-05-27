@@ -11,7 +11,7 @@
 |Max Wilian Olimpio da Costa|PO|/olimpio28|
 |Rafael Barbosa Aguiar |dev|link|
 |Thainá Luria da Silva Gomes|dev|link do git|
-|Wesley Everton de Jesus|dev|link|
+|Wesley Everton de Jesus|dev|https://www.linkedin.com/in/weslley-santos|
 
 ### 2. ESPECIFICAÇÃO
 
