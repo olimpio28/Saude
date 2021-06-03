@@ -4,7 +4,6 @@
 
  Em nosso projeto integrado de apoio didático composto por um conjunto de atividades práticas relacionadas a temas da disciplina de Projeto integrador, tais como: análise e programação orientada a objetos, padrões de projeto, modelagem visual com UML. Como experimento prático ele está contextualizado na construção de um sistema baseado em uma aplicação web, o intuito do projeto tem como proposta ajudar pessoas, nosso principal foco é pessoas que precisam de apoio psicológico, que precisam de conversa e apoio. procuramos a melhor forma de abordar os assuntos selecionados e a melhor solução para o nosso usuário.
 
-    Integrantes da equipe:
 ### 2. EQUIPE  
 |Nome|Papel|Gituser|
 |--|--|--|
@@ -25,4 +24,18 @@
  - [ ] Edição do Cadastro do Usuario
  - [ ] Chat
  - [ ] Notificação de Mensagem 
+ 
+### 3. Tecnologias Envolvidas
+ - PHP
+ - HTML
+ - CSS
+ - JAVASCRIPT
+ - SQL
 
+### 4. Como rodar seu projeto
+
+  - Instale o xampp.
+  - Faça download do projeto no link: vamos colocar ainda.
+  - Abra e inicie  o apache e MySQL no xampp, coloque os arquivos na pasta htdocs do xampp.
+  - Entre na configuração do MySQL, crie um novo banco e importe o banco já criado que se encontra na pasta que fez o download.
+  - Basta abrir o localhost agora.
