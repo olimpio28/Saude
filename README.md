@@ -15,7 +15,7 @@
 ### 2. ESPECIFICAÇÃO
 
 ### 2.1 - Atores
-- acolhedor
+- Acolhedor
 - Instituição que acolher nossos serviços
 
 2.2 - FUNCIONAL
