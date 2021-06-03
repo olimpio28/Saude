@@ -16,13 +16,13 @@
 ### 2. ESPECIFICAÇÃO
 
 ### 2.1 - Atores
-- Pacientes
-- Instituição que adquirir nossos serviços
+- acolhedor
+- Instituição que acolher nossos serviços
 
 2.2 - FUNCIONAL
  - [ ] Cadastro do Usuario
  - [ ] Exclusão de Usuario
  - [ ] Edição do Cadastro do Usuario
- - [ ] Notificação de Compra de produtos
+ - [ ] Chat
  - [ ] Notificação de Mensagem 
 
