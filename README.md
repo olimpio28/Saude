@@ -14,6 +14,11 @@
 
 ### 2. ESPECIFICAÇÃO
 
+<p align="center">
+   <img width="470" src="src/assets/to_readme/use case.jpg">
+</p>
+
+
 ### 2.1 - Atores
 - Acolhedor
 - Acolhido
