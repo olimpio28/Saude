@@ -1,5 +1,10 @@
 # Projeto Integrado (Continue)
 
+![Use Case](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue.PNG)
+<p align="center">
+   <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue.PNG">
+ </p>
+ 
 ### 1. APRESENTAÇÃO
 
  Em nosso projeto integrado de apoio didático composto por um conjunto de atividades práticas relacionadas a temas da disciplina de Projeto integrador, tais como: análise e programação orientada a objetos, padrões de projeto, modelagem visual com UML. Como experimento prático ele está contextualizado na construção de um sistema baseado em uma aplicação web, o intuito do projeto tem como proposta ajudar pessoas, nosso principal foco é pessoas que precisam de apoio psicológico, que precisam de conversa e apoio. procuramos a melhor forma de abordar os assuntos selecionados e a melhor solução para o nosso usuário.
