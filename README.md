@@ -22,6 +22,7 @@
 </p>
 
 ### 2.2 - Atores
+
 - Acolhedor
 - Acolhido
 
