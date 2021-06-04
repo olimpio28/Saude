@@ -14,21 +14,32 @@
 
 ### 2. ESPECIFICAÇÃO
 
+### 2.1 - Use Case
+
+![Use Case](https://github.com/olimpio28/Saude/blob/master/use%20case.jpg)
 <p align="center">
-   <img width="470" src="src/assets/to_readme/use case.jpg">
+   <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/use%20case.jpg">
 </p>
 
-
-### 2.1 - Atores
+### 2.2 - Atores
 - Acolhedor
 - Acolhido
 
-2.2 - FUNCIONAL
+
+2.3 - FUNCIONAL
  - [ ] Cadastro do Usuario
  - [ ] Exclusão de Usuario
  - [ ] Edição do Cadastro do Usuario
  - [ ] Chat
  - [ ] Notificação de Mensagem 
+ 
+ 
+ ### 2.4 - Banco de dados
+ 
+ ![Banco de Dados](https://github.com/olimpio28/Saude/blob/master/banco%20de%20dados.jpg)
+ <p align="center">
+    <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/banco%20de%20dados.jpg">
+ </p>
  
 ### 3. Tecnologias Envolvidas
  - PHP
