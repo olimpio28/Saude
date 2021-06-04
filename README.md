@@ -16,7 +16,7 @@
 
 ### 2.1 - Atores
 - Acolhedor
-- Instituição que acolher nossos serviços
+- Acolhido
 
 2.2 - FUNCIONAL
  - [ ] Cadastro do Usuario
