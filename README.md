@@ -54,6 +54,12 @@
     <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%201.PNG">
    </p>
    
+   2.6 - Modo Claro
+   ![Add files via upload](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%202.PNG)
+   <p align="Center">
+       <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%202.PNG">
+   </p>
+   
 ### 3. Tecnologias Envolvidas
  - PHP
  - HTML
