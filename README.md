@@ -1,4 +1,4 @@
-# Projeto Integrado (Continue)
+# Projeto Integrado (Continue;)
 
 ![Use Case](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue.PNG)
 <p align="center">
@@ -34,10 +34,7 @@
 
 2.3 - FUNCIONAL
  - [ ] Cadastro do Usuario
- - [ ] Exclusão de Usuario
- - [ ] Edição do Cadastro do Usuario
- - [ ] Chat
- - [ ] Notificação de Mensagem 
+ - [ ] Chat online
  
  
  ### 2.4 - Banco de dados
@@ -62,8 +59,6 @@
    
 ### 3. Tecnologias Envolvidas
  - PHP
- - HTML
- - CSS
  - JAVASCRIPT
  - SQL
 
