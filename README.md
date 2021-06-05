@@ -33,8 +33,8 @@
 
 
 2.3 - FUNCIONAL
- - [ ] Cadastro do Usuario
- - [ ] Chat online
+ - [x] Cadastro do Usuario
+ - [x] Chat online
  
  
  ### 2.4 - Banco de dados
