@@ -58,16 +58,31 @@
    </p>
    
    4.2 - Cadastro para o chat
-   !
+  ![Chat 1](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/chat%201.PNG)
+  <p align="center">
+     <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/chat%201.PNG)">
+   </p>
+   
+   4.3 - Chat
+   ![chat 2](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/chat%202.PNG)
+   <p align="center">
+      <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/chat%202.PNG)">
+   </p>
+   
+   4.4 - Conversação
+   ![chat 4](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/chat%204.PNG)
+   <p align="center">
+     <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/chat%204.PNG)">
+   </p>
    
    
    
-### 3. Tecnologias Envolvidas
+### 5. Tecnologias Envolvidas
  - PHP
  - JAVASCRIPT
  - SQL
 
-### 4. Como rodar seu projeto
+### 6. Como rodar seu projeto
 
   - Instale o xampp.
   - Faça download do projeto no link: vamos colocar ainda.
