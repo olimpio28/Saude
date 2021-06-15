@@ -17,45 +17,50 @@
 |Thainá Luria da Silva Gomes|dev|/Tai-lur|
 |Wesley Everton de Jesus|dev||/weslleyeverton|
 
-### 2. ESPECIFICAÇÃO
+### 3. ESPECIFICAÇÃO
 
-### 2.1 - Use Case
+### 3.1 - Use Case
 
 ![Use Case](https://github.com/olimpio28/Saude/blob/master/use%20case.jpg)
 <p align="center">
    <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/use%20case.jpg">
 </p>
 
-### 2.2 - Atores
+### 3.2 - Atores
 
 - Acolhedor
 - Acolhido
 
 
-2.3 - FUNCIONAL
+3.3 - FUNCIONAL
  - [x] Cadastro do Usuario
  - [x] Chat online
  
  
- ### 2.4 - Banco de dados
+ ### 3.4 - Banco de dados
  
  ![Banco de Dados](https://github.com/olimpio28/Saude/blob/master/banco%20de%20dados.jpg)
  <p align="center">
     <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/banco%20de%20dados.jpg">
  </p>
  
- 2.5 - Apresentação do Sistema
+ 4 - Apresentação do Sistema
  
  ![Tela](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%201.PNG)
  <p align="Center">
     <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%201.PNG">
    </p>
    
-   2.6 - Modo Claro
+   4.1 - Modo Claro
    ![Add files via upload](https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%202.PNG)
    <p align="Center">
        <img width="470" src="(https://github.com/olimpio28/Saude/blob/master/Prot%C3%B3tipo/Continue%202.PNG">
    </p>
+   
+   4.2 - Cadastro para o chat
+   !
+   
+   
    
 ### 3. Tecnologias Envolvidas
  - PHP
