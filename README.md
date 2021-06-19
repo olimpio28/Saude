@@ -76,7 +76,6 @@
    </p>
    
    
-   
 ### 5. Tecnologias Envolvidas
  - PHP
  - JAVASCRIPT
@@ -85,7 +84,7 @@
 ### 6. Como rodar seu projeto
 
   - Instale o xampp.
-  - Faça download do projeto no link: vamos colocar ainda.
+  - Faça download do projeto no link: https://www.mediafire.com/file/3m3vsn40bmv9kxf/Projeto_TRADUZIDO_-_PRONTO_AT%25C3%2589_O_MOMENTO.rar/file.
   - Abra e inicie  o apache e MySQL no xampp, coloque os arquivos na pasta htdocs do xampp.
   - Entre na configuração do MySQL, crie um novo banco e importe o banco já criado que se encontra na pasta que fez o download.
   - Basta abrir o localhost agora.
